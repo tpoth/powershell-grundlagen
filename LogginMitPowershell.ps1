@@ -1,3 +1,48 @@
+
+<#PSScriptInfo
+
+.VERSION 1.0.0
+
+.GUID 8d9f860b-2abe-49af-90cd-eca8f42853da
+
+.AUTHOR Thomas Poth
+
+.COMPANYNAME PuBT
+
+.COPYRIGHT © 2022 by PuBT
+
+.TAGS Logging
+
+.LICENSEURI https://abc.de/
+
+.PROJECTURI https://abc.de/
+
+.ICONURI https://abc.de/test.png
+
+.EXTERNALMODULEDEPENDENCIES
+
+.REQUIREDSCRIPTS
+
+.EXTERNALSCRIPTDEPENDENCIES
+
+.RELEASENOTES
+None
+
+.PRIVATEDATA
+
+#>
+
+<# 
+
+.DESCRIPTION 
+ PowerShell Logging mit PoshLog 
+
+#> 
+
+Param()
+
+
+
 # Install-Module PoshLog
 
 Import-Module PoshLog
