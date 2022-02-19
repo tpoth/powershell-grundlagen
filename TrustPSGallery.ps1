@@ -1,0 +1,1 @@
+Set-PackageSource -Name PSGallery -Trusted
